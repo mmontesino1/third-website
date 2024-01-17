@@ -1,29 +1,42 @@
-body{
+body {
     background-color: burlywood;
     color: white;
 }
-h1{
+
+h1 {
     color: brown;
 }
-p{
+
+p {
     color: mediumpurple;
 }
 
-img{
-    border-radius:50%;
+img {
+    border-radius: 50%;
 }
 
-#special{
-    color:#800000;
-    background-color:#9370DB;
+#special {
+    color: #800000;
+    background-color: #9370DB;
 }
 
-#yay{
+#yay {
     color: #9370DB;
     background-color: #800000;
 }
 
-#special13{
+#special13 {
     color: sienna;
     background-color: peru;
+}
+
+hr {
+    border: 2px solid red;
+}
+ol{
+    color: cornflowerblue;
+}
+li{
+    color: darkslategray;
+
 }
